@@ -17,6 +17,36 @@
                     </span>
                             </div>
                             <div class="text text-center">
+                                <p class="mb-5">I have been trading with Jay since a few months now.
+                                    His products are the first choice for my customers
+                                </p>
+                                <p class="name">Ms. Priti</p>
+                                <span class="position">Trinity Ceramics Owner</span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="item">
+                        <div class="testimony-wrap p-4 pb-5">
+                            <div class="user-img mb-5" style="background-image: url(images/person_2.jpg)">
+                    <span class="quote d-flex align-items-center justify-content-center">
+                      <i class="icon-quote-left"></i>
+                    </span>
+                            </div>
+                            <div class="text text-center">
+                                <p class="mb-5">I am always satisfied with Jay's commitment to work.</p>
+                                <p class="name">Mr. Pramod Shrishrimal</p>
+                                <span class="position">Pukhraj Ceramics Owner</span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="item">
+                        <div class="testimony-wrap p-4 pb-5">
+                            <div class="user-img mb-5" style="background-image: url(images/person_3.jpg)">
+                    <span class="quote d-flex align-items-center justify-content-center">
+                      <i class="icon-quote-left"></i>
+                    </span>
+                            </div>
+                            <div class="text text-center">
                                 <p class="mb-5">
                                     I was looking for one of the best basins to fit into my new home, at the most
                                     reasonable price.
@@ -29,17 +59,17 @@
                     </div>
                     <div class="item">
                         <div class="testimony-wrap p-4 pb-5">
-                            <div class="user-img mb-5" style="background-image: url(images/person_2.jpg)">
+                            <div class="user-img mb-5" style="background-image: url(images/person_3.jpg)">
                     <span class="quote d-flex align-items-center justify-content-center">
                       <i class="icon-quote-left"></i>
                     </span>
                             </div>
                             <div class="text text-center">
-                                <p class="mb-5">I have been trading with Jay since a few months now.
-                                    His products are the first choice for my customers
+                                <p class="mb-5">
+                                    I am very impressed with the quality of basins that I purchased from Unique Touch.
                                 </p>
-                                <p class="name">Mr. Jain</p>
-                                <span class="position">Ceramic-Uno Owner</span>
+                                <p class="name">Dr.Jayesh Boricha</p>
+                                <span class="position">Customer</span>
                             </div>
                         </div>
                     </div>
@@ -51,42 +81,14 @@
                     </span>
                             </div>
                             <div class="text text-center">
-                                <p class="mb-5">I am always satisfied with his commitment to work.</p>
-                                <p class="name">Mr. Shah</p>
-                                <span class="position">Retailer</span>
+                                <p class="mb-5">
+                                    The Design of Basins at such a price is unbelievable. Truely Unique!
+                                </p>
+                                <p class="name">Avani Gala</p>
+                                <span class="position">Company Secretary, Legal Advisor</span>
                             </div>
                         </div>
                     </div>
-                    <!--                    <div class="item">-->
-                    <!--                        <div class="testimony-wrap p-4 pb-5">-->
-                    <!--                            <div class="user-img mb-5" style="background-image: url(images/person_1.jpg)">-->
-                    <!--                    <span class="quote d-flex align-items-center justify-content-center">-->
-                    <!--                      <i class="icon-quote-left"></i>-->
-                    <!--                    </span>-->
-                    <!--                            </div>-->
-                    <!--                            <div class="text text-center">-->
-                    <!--                                <p class="mb-5">Far far away, behind the word mountains, far from the countries Vokalia-->
-                    <!--                                    and Consonantia, there live the blind texts.</p>-->
-                    <!--                                <p class="name">Dennis Green</p>-->
-                    <!--                                <span class="position">Web Developer</span>-->
-                    <!--                            </div>-->
-                    <!--                        </div>-->
-                    <!--                    </div>-->
-                    <!--                    <div class="item">-->
-                    <!--                        <div class="testimony-wrap p-4 pb-5">-->
-                    <!--                            <div class="user-img mb-5" style="background-image: url(images/person_1.jpg)">-->
-                    <!--                    <span class="quote d-flex align-items-center justify-content-center">-->
-                    <!--                      <i class="icon-quote-left"></i>-->
-                    <!--                    </span>-->
-                    <!--                            </div>-->
-                    <!--                            <div class="text text-center">-->
-                    <!--                                <p class="mb-5">Far far away, behind the word mountains, far from the countries Vokalia-->
-                    <!--                                    and Consonantia, there live the blind texts.</p>-->
-                    <!--                                <p class="name">Dennis Green</p>-->
-                    <!--                                <span class="position">System Analytics</span>-->
-                    <!--                            </div>-->
-                    <!--                        </div>-->
-                    <!--                    </div>-->
                 </div>
             </div>
         </div>

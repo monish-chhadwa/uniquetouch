@@ -34,7 +34,7 @@ include_once 'html/nav-bar.php';
                     <div class="col-md-3 d-flex justify-content-center counter-wrap ftco-animate">
                         <div class="block-18 text-center">
                             <div class="text">
-                                <strong class="number" data-number="6780">0</strong>
+                                <strong class="number" data-number="250">0</strong>
                                 <span>Happy Clients</span>
                             </div>
                         </div>
@@ -42,7 +42,7 @@ include_once 'html/nav-bar.php';
                     <div class="col-md-3 d-flex justify-content-center counter-wrap ftco-animate">
                         <div class="block-18 text-center">
                             <div class="text">
-                                <strong class="number" data-number="4500">0</strong>
+                                <strong class="number" data-number="45">0</strong>
                                 <span>Running Projects</span>
                             </div>
                         </div>
@@ -50,16 +50,16 @@ include_once 'html/nav-bar.php';
                     <div class="col-md-3 d-flex justify-content-center counter-wrap ftco-animate">
                         <div class="block-18 text-center">
                             <div class="text">
-                                <strong class="number" data-number="4200">0</strong>
-                                <span>Project Completed</span>
+                                <strong class="number" data-number="4500">0</strong>
+                                <span>Number of Products</span>
                             </div>
                         </div>
                     </div>
                     <div class="col-md-3 d-flex justify-content-center counter-wrap ftco-animate">
                         <div class="block-18 text-center">
                             <div class="text">
-                                <strong class="number" data-number="320">0</strong>
-                                <span>Cups of Coffe</span>
+                                <strong class="number" data-number="99">0</strong>
+                                <span>Cups of Coffee</span>
                             </div>
                         </div>
                     </div>

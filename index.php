@@ -25,8 +25,8 @@ include_once 'html/nav-bar.php';
         <div class="slider-text d-md-flex align-items-center" data-scrollax-parent="true">
 
             <div class="one-forth ftco-animate align-self-md-center" data-scrollax=" properties: { translateY: '70%' }">
-                <h1 class="mb-4"> Best in class
-                    <strong class="typewrite" data-period="4000" data-type='[ "Basins" ]'>
+                <h1 class="mb-4"> Best
+                    <strong class="typewrite" data-period="4000" data-type='[ "imported Basins", "Designer Basins" ]'>
                         <span class="wrap"></span>
                     </strong>
                 </h1>
@@ -266,94 +266,6 @@ include_once 'html/nav-bar.php';
     </div>
 </section>
 
-<section class="ftco-section bg-light">
-    <div class="container">
-        <div class="row justify-content-center mb-5 pb-5">
-            <div class="col-md-7 text-center heading-section ftco-animate">
-                <h2 class="mb-3">Our Best Pricing</h2>
-                <span class="subheading">Pricing Plans</span>
-            </div>
-        </div>
-        <div class="row">
-            <div class="col-md-3 ftco-animate">
-                <div class="block-7">
-                    <div class="text-center">
-                        <h2 class="heading">Free</h2>
-                        <span class="price"><sup>$</sup> <span class="number">0</span></span>
-                        <span class="excerpt d-block">100% free. Forever</span>
-                        <a href="#" class="btn btn-primary d-block px-2 py-3 mb-4">Get Started</a>
-
-                        <h3 class="heading-2 mb-4">Enjoy All The Features</h3>
-
-                        <ul class="pricing-text">
-                            <li><strong>150 GB</strong> Bandwidth</li>
-                            <li><strong>100 GB</strong> Storage</li>
-                            <li><strong>$1.00 / GB</strong> Overages</li>
-                            <li>All features</li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-3 ftco-animate">
-                <div class="block-7">
-                    <div class="text-center">
-                        <h2 class="heading">Startup</h2>
-                        <span class="price"><sup>$</sup> <span class="number">19</span></span>
-                        <span class="excerpt d-block">All features are included</span>
-                        <a href="#" class="btn btn-primary btn-outline-primary d-block px-3 py-3 mb-4">Get Started</a>
-
-                        <h3 class="heading-2 mb-4">Enjoy All The Features</h3>
-
-                        <ul class="pricing-text">
-                            <li><strong>450 GB</strong> Bandwidth</li>
-                            <li><strong>400 GB</strong> Storage</li>
-                            <li><strong>$2.00 / GB</strong> Overages</li>
-                            <li>All features</li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-3 ftco-animate">
-                <div class="block-7">
-                    <div class="text-center">
-                        <h2 class="heading">Premium</h2>
-                        <span class="price"><sup>$</sup> <span class="number">49</span></span>
-                        <span class="excerpt d-block">All features are included</span>
-                        <a href="#" class="btn btn-primary btn-outline-primary d-block px-3 py-3 mb-4">Get Started</a>
-
-                        <h3 class="heading-2 mb-4">Enjoy All The Features</h3>
-
-                        <ul class="pricing-text">
-                            <li><strong>250 GB</strong> Bandwidth</li>
-                            <li><strong>200 GB</strong> Storage</li>
-                            <li><strong>$5.00 / GB</strong> Overages</li>
-                            <li>All features</li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-3 ftco-animate">
-                <div class="block-7">
-                    <div class="text-center">
-                        <h2 class="heading">Pro</h2>
-                        <span class="price"><sup>$</sup> <span class="number">99</span></span>
-                        <span class="excerpt d-block">All features are included</span>
-                        <a href="#" class="btn btn-primary btn-outline-primary d-block px-3 py-3 mb-4">Get Started</a>
-
-                        <h3 class="heading-2 mb-4">Enjoy All The Features</h3>
-
-                        <ul class="pricing-text">
-                            <li><strong>450 GB</strong> Bandwidth</li>
-                            <li><strong>400 GB</strong> Storage</li>
-                            <li><strong>$20.00 / GB</strong> Overages</li>
-                            <li>All features</li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
 
 <section class="ftco-quote">
     <div class="container">
@@ -363,14 +275,14 @@ include_once 'html/nav-bar.php';
                     <h2 class="mb-2">Reasons for Choosing Us </h2>
                 </div>
                 <div class="ftco-animate">
-                    <p>Even the all-powerful Pointing has no control about the blind texts it is an almost
-                        unorthographic life One day however a small line of blind text by the name of Lorem Ipsum
-                        decided to leave for the far World of Grammar. Because there were thousands of bad Commas, wild
-                        Question Marks and devious Semikoli</p>
+                    <p>The products you use, define your class. We believe in 'B3' formula - Best Quality,
+                        Best Price, Best Services. Our products are designed to give <b>Unique Touch</b> to your Ordinary needs
+                        to make you feel Extra Ordinary.
+                    </p>
                     <ul class="un-styled my-5">
-                        <li><span class="icon-check"></span>Consectetur adipisicing elit</li>
-                        <li><span class="icon-check"></span>Adipisci repellat accusamus</li>
-                        <li><span class="icon-check"></span>Tempore reprehenderit vitae</li>
+                        <li><span class="icon-check"></span>Best Quality</li>
+                        <li><span class="icon-check"></span>Best Pricing</li>
+                        <li><span class="icon-check"></span>Best Services</li>
                     </ul>
                 </div>
             </div>

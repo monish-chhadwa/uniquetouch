@@ -4,13 +4,12 @@
             <div class="col-md-3">
                 <div class="ftco-footer-widget mb-4">
                     <h2 class="ftco-heading-2">Unique Touch</h2>
-                    <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there
-                        live the blind texts.</p>
+                    <p>Uniqueness at its best. Customer satisfaction is our prime motive. Follow Us: </p>
                 </div>
                 <ul class="ftco-footer-social list-unstyled float-md-left float-lft ">
-                    <li class="ftco-animate"><a href="#"><span class="icon-twitter"></span></a></li>
-                    <li class="ftco-animate"><a href="#"><span class="icon-facebook"></span></a></li>
-                    <li class="ftco-animate"><a href="#"><span class="icon-instagram"></span></a></li>
+<!--                    <li class="ftco-animate"><a href="#"><span class="icon-twitter"></span></a></li>-->
+<!--                    <li class="ftco-animate"><a href="#"><span class="icon-facebook"></span></a></li>-->
+                    <li class="ftco-animate"><a href="https://www.instagram.com/uniquetouch54/" target="_blank"><span class="icon-instagram"></span></a></li>
                 </ul>
             </div>
             <!--            <div class="col-md-2">-->
@@ -25,30 +24,43 @@
             <!--                    </ul>-->
             <!--                </div>-->
             <!--            </div>-->
-            <div class="col-md-4 pr-md-4">
+<!--            <div class="col-md-4 pr-md-4">-->
+<!--                <div class="ftco-footer-widget mb-4">-->
+<!--                    <h2 class="ftco-heading-2">Recent Blog</h2>-->
+<!--                    <div class="block-21 mb-4 d-flex">-->
+<!--                        <a class="blog-img mr-4" style="background-image: url(images/image_1.jpg);"></a>-->
+<!--                        <div class="text">-->
+<!--                            <h3 class="heading"><a href="#">Even the all-powerful Pointing has no control about</a></h3>-->
+<!--                            <div class="meta">-->
+<!--                                <div><a href="#"><span class="icon-calendar"></span> Sept 15, 2018</a></div>-->
+<!--                                <div><a href="#"><span class="icon-person"></span> Admin</a></div>-->
+<!--                                <div><a href="#"><span class="icon-chat"></span> 19</a></div>-->
+<!--                            </div>-->
+<!--                        </div>-->
+<!--                    </div>-->
+<!--                    <div class="block-21 mb-4 d-flex">-->
+<!--                        <a class="blog-img mr-4" style="background-image: url(images/image_2.jpg);"></a>-->
+<!--                        <div class="text">-->
+<!--                            <h3 class="heading"><a href="#">Even the all-powerful Pointing has no control about</a></h3>-->
+<!--                            <div class="meta">-->
+<!--                                <div><a href="#"><span class="icon-calendar"></span> Sept 15, 2018</a></div>-->
+<!--                                <div><a href="#"><span class="icon-person"></span> Admin</a></div>-->
+<!--                                <div><a href="#"><span class="icon-chat"></span> 19</a></div>-->
+<!--                            </div>-->
+<!--                        </div>-->
+<!--                    </div>-->
+<!--                </div>-->
+<!--            </div>-->
+            <div class="col-md-3">
                 <div class="ftco-footer-widget mb-4">
-                    <h2 class="ftco-heading-2">Recent Blog</h2>
-                    <div class="block-21 mb-4 d-flex">
-                        <a class="blog-img mr-4" style="background-image: url(images/image_1.jpg);"></a>
-                        <div class="text">
-                            <h3 class="heading"><a href="#">Even the all-powerful Pointing has no control about</a></h3>
-                            <div class="meta">
-                                <div><a href="#"><span class="icon-calendar"></span> Sept 15, 2018</a></div>
-                                <div><a href="#"><span class="icon-person"></span> Admin</a></div>
-                                <div><a href="#"><span class="icon-chat"></span> 19</a></div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="block-21 mb-4 d-flex">
-                        <a class="blog-img mr-4" style="background-image: url(images/image_2.jpg);"></a>
-                        <div class="text">
-                            <h3 class="heading"><a href="#">Even the all-powerful Pointing has no control about</a></h3>
-                            <div class="meta">
-                                <div><a href="#"><span class="icon-calendar"></span> Sept 15, 2018</a></div>
-                                <div><a href="#"><span class="icon-person"></span> Admin</a></div>
-                                <div><a href="#"><span class="icon-chat"></span> 19</a></div>
-                            </div>
-                        </div>
+                    <h2 class="ftco-heading-2">Coming Soon</h2>
+                    <div class="block-23 mb-3">
+                        <ul>
+                            <li><span class="text">CP Fittings</span></li>
+                            <li><span class="text">Health Faucets</span></li>
+                            <li><span class="text">Showers</span></li>
+                            <li><span class="text">Other bathroom fittings</span></li>
+                        </ul>
                     </div>
                 </div>
             </div>

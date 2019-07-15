@@ -26,13 +26,6 @@ $form = Forms::getForm(['name', 'email', 'mobile', 'quantity', 'readonly']);
         opacity: 1;
     }
 </style>
-<script>
-    function sendProductEnquiry(productId) {
-        var productIdElem = $('#readonly');
-        productIdElem.attr('placeholder', 'Sending enquiry for product: '+productId);
-        productIdElem.val(productId);
-    }
-</script>
 <?php echo $form['css']; ?>
 <body>
 
@@ -206,6 +199,14 @@ include_once 'html/modal.php';
 <script src="js/jquery.min.js"></script>
 <script src="js/jquery-migrate-3.0.1.min.js"></script>
 <?php echo $form['js']?>
+<script>
+    function sendProductEnquiry(productId) {
+        var productIdElem = $('#readonly');
+        debugger;
+        productIdElem.attr('placeholder', 'Sending enquiry for product: '+productId);
+        productIdElem.val(productId);
+    }
+</script>
 <script src="js/popper.min.js"></script>
 <script src="js/bootstrap.min.js"></script>
 <script src="js/jquery.easing.1.3.js"></script>

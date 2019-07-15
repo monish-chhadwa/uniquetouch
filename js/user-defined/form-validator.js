@@ -32,17 +32,19 @@ $(function () {
             dataString = '';
         for (var i = 0; i < validations.length; i++) {
             var currValidation = validations[i],
-                elementInCheck = $(currValidation.elemSelector),
-                elementValue = elementInCheck.val();
-            if (elementValue == "") {//Todo-m: Support validation functions and more validations
-                $(currValidation.errElemSelector).show();
-                if (!focusDone) {//To focus the first element with error
-                    elementInCheck.focus();
+                elementInCheck = $(currValidation.elemSelector);
+            if (elementInCheck) {//Since its a dynamic form, not all form elements will be compulsorily present
+                var elementValue = elementInCheck.val();
+                if (elementValue == "") {//Todo-m: Support validation functions and more validations
+                    $(currValidation.errElemSelector).show();
+                    if (!focusDone) {//To focus the first element with error
+                        elementInCheck.focus();
+                    }
+                    focusDone = true;
+                    validation = false;//Set it to false even if one validation fails but let all validations take place so as to show errors
+                } else {
+                    dataString += elementInCheck.attr('name') + '=' + elementInCheck.val() + '&';
                 }
-                focusDone = true;
-                validation = false;//Set it to false even if one validation fails but let all validations take place so as to show errors
-            } else {
-                dataString += elementInCheck.attr('name') + '=' + elementInCheck.val() + '&';
             }
         }
 
@@ -56,7 +58,7 @@ $(function () {
             type: "POST",
             url: "service/sendmail-oauth.php",
             data: dataString,
-            success: function() {
+            success: function () {
                 //Todo-m: Show loading bar in contact us form
                 $("#contactSuccess").modal();
             }

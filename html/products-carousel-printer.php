@@ -11,36 +11,36 @@ class Products
     private static $productsConfig = array(
         array(
             'id' => 'basins',
-            'title' => 'Basins',
+            'title' => 'Shell Series',
             'subtitle' => '22 X 14 X 6 inch',
             'folder' => '22-14-6',
             'cover' => 'img31.jpg'
         ),
         array(
             'id' => 'roundbasins',
-            'title' => 'Round Basins',
+            'title' => 'Alive Series',
             'subtitle' => '18 x 15 x 7 inch',
             'folder' => '18-15-7-round',
             'cover' => 'img38.jpg'
         ),
         array(
             'id' => 'triangularbasins',
-            'title' => 'Triangular Basins',
+            'title' => 'Mad Angle Series',
             'subtitle' => '18 x 15 x 7 inch',
             'folder' => '18-15-7-triangle',
             'cover' => 'img51.jpg'
         ),
         array(
             'id' => 'bestseller',
-            'title' => 'Best Sellers',
-            'subtitle' => '17 x 13 x 4.5 inch',
+            'title' => 'Axe Series',
+            'subtitle' => '17 x 13 x 5 inch',
             'folder' => '17-13-4.5',
             'cover' => 'img66.jpg'
         ),
         array(
             'id' => 'specialdesign',
-            'title' => 'Special Design',
-            'subtitle' => '16 x 13 x 5.7 inch',
+            'title' => 'Handmade and Marble Series',
+            'subtitle' => '16 x 13 x 6 inch',
             'folder' => '16-13-5.7',
             'cover' => 'img82.jpg'
         ),
@@ -50,6 +50,27 @@ class Products
             'subtitle' => 'Multiple sizes available',
             'folder' => 'elegant-white',
             'cover' => 'img122.jpg'
+        ),
+        array(
+            'id' => 'rmarble',
+            'title' => 'Round Marble Series',
+            'subtitle' => '13 x 13 x 5 inch',
+            'folder' => 'round-marble',
+            'cover' => 'cover.jpg'
+        ),
+        array(
+            'id' => 'hnmarble',
+            'title' => 'Handmade and Marble Series',
+            'subtitle' => '18 x 13 x 6 inch',
+            'folder' => 'hm-n-marble',
+            'cover' => 'cover.jpg'
+        ),
+        array(
+            'id' => 'bprint',
+            'title' => 'Black Print',
+            'subtitle' => '20 x 15 x 6 inch',
+            'folder' => 'black-print',
+            'cover' => 'cover.jpg'
         )
     );
 
