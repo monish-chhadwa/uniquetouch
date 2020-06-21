@@ -10,6 +10,55 @@ class Products
 {
     private static $productsConfig = array(
         array(
+            'id' => 'gemseries',
+            'title' => 'Gem Series',
+            'subtitle' => '14 x 10 x 4 inch',
+            'folder' => 'GEMSERIES',
+            'cover' => 'cover.jpg'
+        ),
+        array(
+            'id' => 'mirrorseries',
+            'title' => 'Mirror Series',
+            'subtitle' => '14 x 10 x 4 inch',
+            'folder' => 'MIRRORSERIES',
+            'cover' => 'cover.jpg'
+        ),
+        array(
+            'id' => 'moonseries',
+            'title' => 'Moon Series',
+            'subtitle' => '16 x 13 x 6 inch',
+            'folder' => 'MOONSERIES',
+            'cover' => 'cover.jpg'
+        ),
+        array(
+            'id' => 'diamondseries',
+            'title' => 'Diamond Series',
+            'subtitle' => '16 x 13 x 6 inch',
+            'folder' => 'DIAMONDSERIES',
+            'cover' => 'cover.jpg'
+        ),
+        array(
+            'id' => 'kingseries',
+            'title' => 'King Series',
+            'subtitle' => '18 x 13 x 6 inch',
+            'folder' => 'KINGSERIES',
+            'cover' => 'cover.jpg'
+        ),
+        array(
+            'id' => 'aquaseries',
+            'title' => 'Aqua Series',
+            'subtitle' => '16 x 12 x 5 inch',
+            'folder' => 'AQUASERIES',
+            'cover' => 'cover.jpg'
+        ),
+        array(
+            'id' => 'plutoseries',
+            'title' => 'Pluto Series',
+            'subtitle' => '13 x 13 inch',
+            'folder' => 'PLUTOSERIES',
+            'cover' => 'cover.jpg'
+        ),
+        array(
             'id' => 'basins',
             'title' => 'Shell Series',
             'subtitle' => '22 X 14 X 6 inch',
