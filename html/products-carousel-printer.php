@@ -13,114 +13,72 @@ class Products
             'id' => 'gemseries',
             'title' => 'Gem Series',
             'subtitle' => '14 x 10 x 4 inch',
-            'folder' => 'GEMSERIES',
-            'cover' => 'cover.jpg'
+            'folder' => '9001',
+            'cover' => 'IMG_20211009_165909_Bokeh__01.jpg'
         ),
         array(
             'id' => 'mirrorseries',
             'title' => 'Mirror Series',
             'subtitle' => '14 x 10 x 4 inch',
-            'folder' => 'MIRRORSERIES',
-            'cover' => 'cover.jpg'
+            'folder' => '9002',
+            'cover' => 'IMG_20211009_170258_Bokeh__01.jpg'
         ),
         array(
             'id' => 'moonseries',
             'title' => 'Moon Series',
             'subtitle' => '16 x 13 x 6 inch',
-            'folder' => 'MOONSERIES',
-            'cover' => 'cover.jpg'
-        ),
-        array(
-            'id' => 'diamondseries',
-            'title' => 'Diamond Series',
-            'subtitle' => '16 x 13 x 6 inch',
-            'folder' => 'DIAMONDSERIES',
-            'cover' => 'cover.jpg'
+            'folder' => 'Moon series-9003',
+            'cover' => 'IMG_20211009_151234_Bokeh.jpg'
         ),
         array(
             'id' => 'kingseries',
             'title' => 'King Series',
             'subtitle' => '18 x 13 x 6 inch',
-            'folder' => 'KINGSERIES',
-            'cover' => 'cover.jpg'
+            'folder' => '9009',
+            'cover' => 'IMG_20211126_150316_Bokeh__01__01__01__01.jpg'
         ),
         array(
             'id' => 'aquaseries',
             'title' => 'Aqua Series',
             'subtitle' => '16 x 12 x 5 inch',
-            'folder' => 'AQUASERIES',
-            'cover' => 'cover.jpg'
+            'folder' => '9005',
+            'cover' => 'IMG_20211126_133443_Bokeh__01__01.jpg'
         ),
         array(
-            'id' => 'plutoseries',
-            'title' => 'Pluto Series',
-            'subtitle' => '13 x 13 inch',
-            'folder' => 'PLUTOSERIES',
-            'cover' => 'cover.jpg'
+            'id' => 'rectangle',
+            'title' => 'Rectangle Series',
+            'subtitle' => '20 x 15 x 5 inch',
+            'folder' => '9008',
+            'cover' => 'Screenshot_20211008-015542__01.jpg'
         ),
         array(
-            'id' => 'basins',
-            'title' => 'Shell Series',
-            'subtitle' => '22 X 14 X 6 inch',
-            'folder' => '22-14-6',
-            'cover' => 'img31.jpg'
+            'id' => 'eggseries',
+            'title' => 'Egg Series',
+            'subtitle' => '19 x 13 x 5 inch',
+            'folder' => '9012 egg series',
+            'cover' => 'IMG_20211126_153513_Bokeh__01__01__01.jpg'
         ),
         array(
-            'id' => 'roundbasins',
-            'title' => 'Alive Series',
-            'subtitle' => '18 x 15 x 7 inch',
-            'folder' => '18-15-7-round',
-            'cover' => 'img38.jpg'
+            'id' => 'ovalseries',
+            'title' => 'Oval Series',
+            'subtitle' => '20 x 14 x 5 inch',
+            'folder' => '9014',
+            'cover' => 'IMG_20211126_154335_Bokeh__01__01__01__01__01.jpg'
         ),
         array(
-            'id' => 'triangularbasins',
-            'title' => 'Mad Angle Series',
-            'subtitle' => '18 x 15 x 7 inch',
-            'folder' => '18-15-7-triangle',
-            'cover' => 'img51.jpg'
+            'id' => 'latestseries',
+            'title' => 'Latest Designs',
+            'subtitle' => '18 x 14 x 6 inch',
+            'folder' => '9027',
+            'cover' => '9027-1__01.jpg'
         ),
         array(
-            'id' => 'bestseller',
-            'title' => 'Axe Series',
-            'subtitle' => '17 x 13 x 5 inch',
-            'folder' => '17-13-4.5',
-            'cover' => 'img66.jpg'
+            'id' => 'flowerseries',
+            'title' => 'Flower Series',
+            'subtitle' => '19 x 13 x 5 inch',
+            'folder' => '9088',
+            'cover' => 'IMG_20211126_154335_Bokeh__01__01__01__01__01.jpg'
         ),
-        array(
-            'id' => 'specialdesign',
-            'title' => 'Handmade and Marble Series',
-            'subtitle' => '16 x 13 x 6 inch',
-            'folder' => '16-13-5.7',
-            'cover' => 'img82.jpg'
-        ),
-        array(
-            'id' => 'elegantwhite',
-            'title' => 'Elegant White',
-            'subtitle' => 'Multiple sizes available',
-            'folder' => 'elegant-white',
-            'cover' => 'img122.jpg'
-        ),
-        array(
-            'id' => 'rmarble',
-            'title' => 'Round Marble Series',
-            'subtitle' => '13 x 13 x 5 inch',
-            'folder' => 'round-marble',
-            'cover' => 'cover.jpg'
-        ),
-        array(
-            'id' => 'hnmarble',
-            'title' => 'Handmade and Marble Series',
-            'subtitle' => '18 x 13 x 6 inch',
-            'folder' => 'hm-n-marble',
-            'cover' => 'cover.jpg'
-        ),
-        array(
-            'id' => 'bprint',
-            'title' => 'Black Print',
-            'subtitle' => '20 x 15 x 6 inch',
-            'folder' => 'black-print',
-            'cover' => 'cover.jpg'
-        )
     );
 
     private static function printProductCarousel($config)

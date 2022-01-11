@@ -43,22 +43,16 @@ include_once 'html/nav-bar.php';
                         <img src="images/ut/blue-graphic.jpg" class="img-fluid img" alt="">
                     </div>
                     <div class="item">
-                        <img src="images/ut/golden-curve.JPG" class="img-fluid img" alt="">
+                        <img src="images/ut/products/9009/IMG_20211126_150316_Bokeh__01__01__01__01.jpg" class="img-fluid img" alt="">
                     </div>
                     <div class="item">
-                        <img src="images/ut/products/img86.jpg" class="img-fluid img imgmonish" alt="">
+                        <img src="images/ut/products/9012%20egg%20series/IMG_20211126_153724_Bokeh__01__01__01.jpg" class="img-fluid img imgmonish" alt="">
                     </div>
                     <div class="item">
-                        <img src="images/ut/products/18-15-7-triangle/img59.jpg" class="img-fluid img imgmonish" alt="">
+                        <img src="images/ut/products/9014/IMG_20211126_154526_Bokeh__01__01__01__01__01.jpg" class="img-fluid img imgmonish" alt="">
                     </div>
                     <div class="item">
-                        <img src="images/ut/products/22-14-6/img27.jpg" class="img-fluid img imgmonish" alt="">
-                    </div>
-                    <div class="item">
-                        <img src="images/ut/products/img105.jpg" class="img-fluid img imgmonish" alt="">
-                    </div>
-                    <div class="item">
-                        <img src="images/ut/products/17-13-4.5/img66.jpg" class="img-fluid img imgmonish" alt="">
+                        <img src="images/ut/products/9088/Screenshot_20211008-015650__01.jpg" class="img-fluid img imgmonish" alt="">
                     </div>
                 </div>
             </div>
